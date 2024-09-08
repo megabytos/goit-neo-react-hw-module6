@@ -1,1 +1,1 @@
-# React HomeWork 6
+# React Redux HomeWork 6 - Phonebook Application
